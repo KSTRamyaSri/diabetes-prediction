@@ -17,27 +17,6 @@ A web-based diabetes prediction tool built with Streamlit and Python. This dashb
 ---
 
 
-## Installation
-
-git clone https://github.com/KSTRamyaSri/diabetes-prediction.git
-
----
-cd diabetes-prediction
-pip install -r requirements.txt
-streamlit run app.py
-
-## Project Structure
-
-├── app.py
-├── src/
-├── pages/
-├── models/
-├── data/
-├── requirements.txt
-└── README.md
-
-
----
 
 ## Screenshots
 
